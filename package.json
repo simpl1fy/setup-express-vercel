@@ -1,0 +1,30 @@
+{
+  "name": "setup-express-vercel",
+  "version": "1.0.0",
+  "description": "A package that will setup Express for Vercel",
+  "keywords": [
+    "package",
+    "express",
+    "vercel",
+    "deployment",
+    "dotenv"
+  ],
+  "homepage": "https://github.com/simpl1fy/setup-express-vercel#readme",
+  "bugs": {
+    "url": "https://github.com/simpl1fy/setup-express-vercel/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpl1fy/setup-express-vercel.git"
+  },
+  "license": "ISC",
+  "author": "Gourab Das",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^7.5.0"
+  }
+}
