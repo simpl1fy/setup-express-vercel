@@ -1,6 +1,6 @@
 {
   "name": "setup-express-vercel",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package that will setup Express for Vercel",
   "keywords": [
     "package",
